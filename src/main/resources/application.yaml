@@ -1,0 +1,9 @@
+spring:
+  main:
+    web-application-type: reactive
+  h2:
+    console:
+      enabled: true
+webclientexample:
+  postsapi:
+    h2-console-port: 8081

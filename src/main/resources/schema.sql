@@ -1,0 +1,1 @@
+CREATE TABLE enemies (id SERIAL PRIMARY KEY, name VARCHAR(255), health NUMBER);
